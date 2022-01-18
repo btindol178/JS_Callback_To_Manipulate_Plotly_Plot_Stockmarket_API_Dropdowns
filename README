@@ -1,0 +1,9 @@
+Make sure you structure your file like this.
+
+/templates
+    |-- index3.html
+
+This app uses stock market API to grab different symbols for different time frames. 
+Upon submit of different dropdown (API values) the JS callback is initiated and creates new Plotly plot accordingly!
+
+
